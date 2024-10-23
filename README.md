@@ -49,7 +49,7 @@ e. objeto, classe e atributo.
 
 Dada a construção abaixo, associe os números ao elemento correspondente:
 
-let conta: Conta = new Conta();
+let conta: Conta = new Conta();\n
 **Numeros**: 1, 2, 3, 4;
 
 - (4) Construtor;

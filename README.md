@@ -4,13 +4,16 @@
 
 1. **Identifique o nome do conceito representado pelo texto abaixo:**
 
-   a) É a forma de definir ou controlar a complexidade baseada em características essenciais e pela supressão ou desconsideração de detalhes em orientação a objetos.  
+   a) É a forma de definir ou controlar a complexidade baseada em características essenciais e pela supressão ou desconsideração de detalhes em orientação a objetos.
+   
    **Resposta:** Abstração
 
-   b) Define que nenhum acesso direto é concedido diretamente aos dados, apenas através de métodos.  
+   b) Define que nenhum acesso direto é concedido diretamente aos dados, apenas através de métodos.
+   
    **Resposta:** Encapsulamento
 
-   c) É um recurso que serve para inicializar os atributos e é executado automaticamente sempre que um novo objeto é criado.  
+   c) É um recurso que serve para inicializar os atributos e é executado automaticamente sempre que um novo objeto é criado.
+   
    **Resposta:** Construtor
 
 ---

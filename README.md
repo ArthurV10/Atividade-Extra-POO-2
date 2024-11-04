@@ -25,7 +25,7 @@ Assinale V ou F:
 - (F) Classes são instâncias de objetos;
 - (F) Classes são apenas agrupamentos de métodos;
 - (V) Atributos definem o estado de um objeto;
-- (V) Métodos podem ser análogos às funções e em TypeScript e podem ser escritos dentro ou fora da classe, como em C++;
+- (F) Métodos podem ser análogos às funções e em TypeScript e podem ser escritos dentro ou fora da classe, como em C++;
 - (F) Podemos ignorar o uso de tipos em TypeScript.
 
 ---
